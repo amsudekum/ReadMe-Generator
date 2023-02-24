@@ -13,7 +13,7 @@ This project will generate a professional readme from the command line. It helps
 After installing inquirer 8.2.4, run node index.js
 
 ## Usage
-Follow the prompts to fill in your readme
+Follow the prompts to fill in your readme. Here's a video example of the generator: https://drive.google.com/file/d/19mRHAcTGV2q604O13GElAPZ6w60kvaQJ/view?usp=sharing
 
 
 ## Contact
